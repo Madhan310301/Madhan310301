@@ -6,7 +6,7 @@
 🌱 Using GitHub Student Developer Pack  
 
 ## 🔧 Skills
-- Programming: C, C++, Java
+- Programming: C, C++, Javascript,Typescript
 - Web: HTML, CSS, JavaScript
 - Tools: Git, GitHub, VS Code  
 
