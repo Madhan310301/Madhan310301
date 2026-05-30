@@ -1,9 +1,21 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Madhan%20Kumar%20T&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20AI%20Builder%20%7C%20Full-Stack%20%26%20IoT&descAlignY=62&descSize=16)
+<svg width="900" height="180" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1117;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#1a1b4b;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0d1117;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="900" height="180" fill="url(#grad)" rx="0"/>
+  <path d="M0,140 Q225,100 450,130 Q675,160 900,120 L900,180 L0,180 Z" fill="#161b22" opacity="0.6"/>
+  <text x="450" y="75" font-family="'Segoe UI', Arial, sans-serif" font-size="38" font-weight="bold" fill="white" text-anchor="middle" letter-spacing="2">Madhan Kumar T</text>
+  <text x="450" y="115" font-family="'Segoe UI', Arial, sans-serif" font-size="16" fill="#70a5fd" text-anchor="middle" letter-spacing="1">Software Engineer · AI Builder · Full-Stack &amp; IoT</text>
+</svg>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=850&lines=AI+%7C+ML+%7C+Deep+Learning+%7C+IoT+%7C+React+%7C+Node.js;Building+AI-Powered+Full-Stack+Systems+%F0%9F%9A%80;12%2B+Projects+Shipped+End-to-End+%F0%9F%94%A5;CGPA+9.0+%7C+BIHER+Chennai+%7C+CSE+2028" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=900&lines=AI+%7C+ML+%7C+Deep+Learning+%7C+IoT+%7C+React+%7C+Node.js;Building+AI-Powered+Full-Stack+Systems+%F0%9F%9A%80;12%2B+Projects+Shipped+End-to-End+%F0%9F%94%A5;CGPA+9.0+%7C+BIHER+Chennai+%7C+CSE+2028" alt="Typing SVG" />
 </a>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Madhan310301&label=Profile%20Views&color=70a5fd&style=flat-square)](https://github.com/Madhan310301)
@@ -17,6 +29,8 @@
 
 <img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
+<div>
+
 ```javascript
 const madhan = {
   name:       "Madhan Kumar T",
@@ -27,23 +41,24 @@ const madhan = {
   stack: [
     "React", "Node.js", "TypeScript",
     "Python", "MongoDB", "Supabase",
-    "MicroControllers & MicroProcessors", "TensorFlow", "OpenCV"
+    "ESP32C3", "TensorFlow", "OpenCV"
   ],
 
   currentlyLearning: [
     "Agent Memory Infrastructure",
     "TinyML / Edge AI",
     "LLM Evaluation Frameworks",
-    "Camera Based Braille Language Blind People Helper",
     "System Design at Scale"
   ],
 
   shipped: "12+ end-to-end projects",
-  funFact:  "Built an IoT child-safety wearable from scratch in 24 hours 🏆",
+  funFact:  "Built an IoT child-safety wearable in 24 hours 🏆",
 
   motto: () => "Ship fast. Think modular. Build for impact.",
 };
 ```
+
+</div>
 
 <br clear="right"/>
 
@@ -180,10 +195,10 @@ const madhan = {
 |---|---|---|
 | [**SarvaJeevaID**](https://github.com/Madhan310301) | React · TypeScript · Supabase · PostgreSQL · RBAC | National-scale unified digital identity platform for citizens, animals & institutions. Secure multi-role RBAC with real-time data sync. Scoped for Aadhaar-scale deployment. |
 | [**SafeGuard AI — Child Safety Wearable**](https://github.com/Madhan310301) | ESP32C3 · GPS · MPU6050 · SIM800L · React · Supabase | End-to-end IoT child safety wearable shipped in **24 hrs**. GPS + fall detection + GSM alerts + parent-only RBAC dashboard. Won **2 prizes** at Genesis Hackathon 2026. |
-| [**AI Cloud-Edge Healthcare Framework**](https://github.com/Madhan310301) | React · Node.js · Express · MongoDB · Python ML | Distributed cloud-edge architecture for real-time IoT health monitoring. **25% lower API latency**. AI-driven predictive health alerts dashboard with SpO2 & heart rate tracking. |
-| [**ML Machine Health Tracker**](https://github.com/Madhan310301) | Python · scikit-learn · Regression · Classification | Predictive maintenance model reducing simulated downtime by **20%**. Reusable ML pipeline with anomaly detection. Vibration & temperature pattern visualization. |
-| [**AI Finance Coach & Grader — FinTech AI**](https://github.com/Madhan310301) | Python · React · TypeScript · LLM APIs | Conversational AI financial advisor providing personalized investment insights. Portfolio grading based on diversification, risk profile & historical returns. |
-| [**AI Personal Assistant — Voice-Based**](https://github.com/Madhan310301) | Python · LLM APIs · React · Node.js | Multi-capability voice-based AI assistant handling scheduling, research, task management & reminders. Tool-use framework with natural language understanding and context-aware responses. |
+| [**AI Cloud-Edge Healthcare Framework**](https://github.com/Madhan310301) | React · Node.js · Express · MongoDB · Python ML | Distributed cloud-edge architecture for real-time IoT health monitoring. **25% lower API latency**. AI-driven predictive health alerts dashboard. |
+| [**ML Machine Health Tracker**](https://github.com/Madhan310301) | Python · scikit-learn · Regression · Classification | Predictive maintenance model reducing simulated downtime by **20%**. Reusable ML pipeline with anomaly detection. |
+| [**AI Finance Coach & Grader — FinTech AI**](https://github.com/Madhan310301) | Python · React · TypeScript · LLM APIs | Conversational AI financial advisor with portfolio grading based on diversification, risk profile & historical returns. |
+| [**AI Personal Assistant — Voice-Based**](https://github.com/Madhan310301) | Python · LLM APIs · React · Node.js | Multi-capability voice AI assistant handling scheduling, research & task management with context-aware responses. |
 
 </div>
 
@@ -237,10 +252,19 @@ const madhan = {
 
 📫 **Let's connect!**
 
-[![Email](https://img.shields.io/badge/Email-madhankumartbharathuniv@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:maddymadhan3103@gmail.com)
+[![Email](https://img.shields.io/badge/Email-maddymadhan3103@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:maddymadhan3103@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-madhankumart-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/madhankumart)
 [![GitHub](https://img.shields.io/badge/GitHub-Madhan310301-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Madhan310301)
 
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling)
+<svg width="100%" height="120" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 120">
+  <defs>
+    <linearGradient id="footerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0d1117"/>
+      <stop offset="50%" style="stop-color:#1a1b4b"/>
+      <stop offset="100%" style="stop-color:#0d1117"/>
+    </linearGradient>
+  </defs>
+  <path d="M0,60 Q225,10 450,50 Q675,90 900,30 L900,120 L0,120 Z" fill="url(#footerGrad)"/>
+</svg>
