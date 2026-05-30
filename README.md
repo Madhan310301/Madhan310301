@@ -237,7 +237,7 @@ const madhan = {
 
 📫 **Let's connect!**
 
-[![Email](https://img.shields.io/badge/Email-maddymadhan3103@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:maddymadhan3103@gmail.com)
+[![Email](https://img.shields.io/badge/Email-madhankumartbharathuniv@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:maddymadhan3103@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-madhankumart-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/madhankumart)
 [![GitHub](https://img.shields.io/badge/GitHub-Madhan310301-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Madhan310301)
 
