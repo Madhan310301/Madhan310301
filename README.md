@@ -229,8 +229,8 @@ const madhan = {
 | Degree | Institution | Year | Score |
 |---|---|---|---|
 | **B.Tech — Computer Science Engineering** | Bharath Institute of Higher Education and Research (BIHER), Chennai | 2024 – 2028 (Expected) | **CGPA: 9.0 / 10.0** |
-| Higher Secondary Certificate (HSC) | Dawn Shikshalaya Public School | 2024 | **86.80%** |
-| Secondary School Leaving Certificate (SSLC) | Dawn Shikshalaya Public School | 2022 | **78.80%** |
+| Higher Secondary Certificate (HSC) | Dawn Shikshalaya Public School | 2024 | **91.80%** |
+| Secondary School Leaving Certificate (SSLC) | Dawn Shikshalaya Public School | 2022 | **86.80%** |
 
 </div>
 
