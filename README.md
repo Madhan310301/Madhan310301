@@ -11,7 +11,7 @@
   <rect width="900" height="180" fill="url(#grad)" rx="0"/>
   <path d="M0,140 Q225,100 450,130 Q675,160 900,120 L900,180 L0,180 Z" fill="#161b22" opacity="0.6"/>
   <text x="450" y="75" font-family="'Segoe UI', Arial, sans-serif" font-size="38" font-weight="bold" fill="white" text-anchor="middle" letter-spacing="2">Madhan Kumar T</text>
-  <text x="450" y="115" font-family="'Segoe UI', Arial, sans-serif" font-size="16" fill="#70a5fd" text-anchor="middle" letter-spacing="1">Software Developer · AI Developer · IoT Builder · Full-Stack Developer &amp; ML Developer</text>
+  <text x="450" y="115" font-family="'Segoe UI', Arial, sans-serif" font-size="16" fill="#70a5fd" text-anchor="middle" letter-spacing="1"> · Software Developer · AI Developer · IoT Builder · Full-Stack Developer &amp; ML Developer</text>
 </svg>
 
 <a href="https://git.io/typing-svg">
