@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Madhan%20Kumar%20T&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20AI%20Builder%20%7C%20Full-Stack%20%26%20IoT&descAlignY=62&descSize=16" width="100%"/>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Madhan%20Kumar%20T&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20AI%20Builder%20%7C%20Full-Stack%20%26%20IoT&descAlignY=62&descSize=16)
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Building+AI-Powered+Full-Stack+Systems+%F0%9F%9A%80;12%2B+Projects+Shipped+End-to-End+%F0%9F%94%A5;IoT+%7C+ML+%7C+React+%7C+Node.js+Builder;CGPA+9.5+%7C+BIHER+Chennai+%7C+CSE+2028" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=850&lines=AI+%7C+ML+%7C+Deep+Learning+%7C+IoT+%7C+React+%7C+Node.js;Building+AI-Powered+Full-Stack+Systems+%F0%9F%9A%80;12%2B+Projects+Shipped+End-to-End+%F0%9F%94%A5;CGPA+9.0+%7C+BIHER+Chennai+%7C+CSE+2028" alt="Typing SVG" />
 </a>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Madhan310301&label=Profile%20Views&color=70a5fd&style=flat-square)](https://github.com/Madhan310301)
@@ -27,18 +27,17 @@ const madhan = {
   stack: [
     "React", "Node.js", "TypeScript",
     "Python", "MongoDB", "Supabase",
-    "Microcontrollers & Microprocessors", "TensorFlow", "OpenCV"
+    "ESP32C3", "TensorFlow", "OpenCV"
   ],
 
   currentlyLearning: [
     "Agent Memory Infrastructure",
     "TinyML / Edge AI",
-    "Blind People Braille Language Detection",
     "LLM Evaluation Frameworks",
     "System Design at Scale"
   ],
 
-  shipped: "14+ end-to-end projects",
+  shipped: "12+ end-to-end projects",
   funFact:  "Built an IoT child-safety wearable from scratch in 24 hours 🏆",
 
   motto: () => "Ship fast. Think modular. Build for impact.",
@@ -76,13 +75,20 @@ const madhan = {
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-**AI / ML & IoT**
+**AI / ML & Deep Learning**
 
-![Python](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![CNN](https://img.shields.io/badge/CNN%20%2F%20Deep%20Learning-412991?style=flat-square&logo=pytorch&logoColor=white)
+![LLM APIs](https://img.shields.io/badge/LLM%20APIs-10a37f?style=flat-square&logo=openai&logoColor=white)
+
+**IoT & Embedded**
+
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32C3-000000?style=flat-square&logo=espressif&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32C3-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![GPS](https://img.shields.io/badge/NEO--6M%20GPS-0078D7?style=flat-square&logo=googlemaps&logoColor=white)
+![GSM](https://img.shields.io/badge/SIM800L%20GSM-1A73E8?style=flat-square&logo=google&logoColor=white)
 
 **Tools & Platforms**
 
@@ -145,7 +151,7 @@ const madhan = {
 
 > `ESP32C3` `NEO-6M GPS` `MPU6050` `SIM800L` `React` `TypeScript` `Supabase` `Blender`
 
-- Built **SafeGuard AI** — an end-to-end IoT child safety wearable with GPS tracking, fall detection, GSM emergency alerts, and a parent-only RBAC web dashboard — entirely solo in **24 hours**.
+- Built **SafeGuard AI** — an end-to-end IoT child safety wearable with GPS tracking, fall detection, GSM emergency alerts, and a parent-only RBAC web dashboard — entirely in **24 hours**.
 - Delivered a Blender 3D product animation and pitched **Shark Tank-style** to a panel of investors and industry judges.
 - Won **Overall Second Prize** and **Domain-Wise First Prize** at the hackathon.
 - Managed hardware integration, full-stack web app, 3D animation, and investor pitch simultaneously.
@@ -172,11 +178,11 @@ const madhan = {
 | Project | Stack | Highlights |
 |---|---|---|
 | [**SarvaJeevaID**](https://github.com/Madhan310301) | React · TypeScript · Supabase · PostgreSQL · RBAC | National-scale unified digital identity platform for citizens, animals & institutions. Secure multi-role RBAC with real-time data sync. Scoped for Aadhaar-scale deployment. |
-| [**SafeGuard AI**](https://github.com/Madhan310301) | ESP32C3 · GPS · MPU6050 · SIM800L · React · Supabase | End-to-end IoT child safety wearable shipped in **24 hrs**. GPS + fall detection + GSM alerts + RBAC dashboard. Won **2 prizes** at Genesis Hackathon 2026. |
-| [**AI Cloud-Edge Healthcare**](https://github.com/Madhan310301) | React · Node.js · Express · MongoDB · Python ML | Distributed cloud-edge architecture for real-time IoT health monitoring. **25% lower API latency**. AI-driven predictive health alerts dashboard. |
-| [**Tender Coconut Grader**](https://github.com/Madhan310301) | Python · CNN · OpenCV · TensorFlow | Live-video CNN pipeline achieving **~90% classification accuracy**. Fault-tolerant timeout logic for real-world reliability. |
-| [**Raghavendra Medicals**](https://github.com/Madhan310301) | React · Node.js · Express · MongoDB | Full-stack pharmacy system for a **real client** — inventory, billing & customer-facing online ordering. |
-| [**ML Machine Health Tracker**](https://github.com/Madhan310301) | Python · scikit-learn · Regression · Classification | Predictive maintenance model reducing simulated downtime by **20%**. Reusable ML pipeline with anomaly detection. |
+| [**SafeGuard AI — Child Safety Wearable**](https://github.com/Madhan310301) | ESP32C3 · GPS · MPU6050 · SIM800L · React · Supabase | End-to-end IoT child safety wearable shipped in **24 hrs**. GPS + fall detection + GSM alerts + parent-only RBAC dashboard. Won **2 prizes** at Genesis Hackathon 2026. |
+| [**AI Cloud-Edge Healthcare Framework**](https://github.com/Madhan310301) | React · Node.js · Express · MongoDB · Python ML | Distributed cloud-edge architecture for real-time IoT health monitoring. **25% lower API latency**. AI-driven predictive health alerts dashboard with SpO2 & heart rate tracking. |
+| [**ML Machine Health Tracker**](https://github.com/Madhan310301) | Python · scikit-learn · Regression · Classification | Predictive maintenance model reducing simulated downtime by **20%**. Reusable ML pipeline with anomaly detection. Vibration & temperature pattern visualization. |
+| [**AI Finance Coach & Grader — FinTech AI**](https://github.com/Madhan310301) | Python · React · TypeScript · LLM APIs | Conversational AI financial advisor providing personalized investment insights. Portfolio grading based on diversification, risk profile & historical returns. |
+| [**AI Personal Assistant — Voice-Based**](https://github.com/Madhan310301) | Python · LLM APIs · React · Node.js | Multi-capability voice-based AI assistant handling scheduling, research, task management & reminders. Tool-use framework with natural language understanding and context-aware responses. |
 
 </div>
 
@@ -190,7 +196,7 @@ const madhan = {
 |---|---|---|
 | 🥇 | **Genesis Hackathon 2026 — Domain-Wise First Prize** | Built SafeGuard AI (IoT child safety wearable) in 24 hours at SRMEEC Chennai |
 | 🥈 | **Genesis Hackathon 2026 — Overall Second Prize** | Shark Tank-style investor pitch with hardware, web app & 3D animation |
-| 🎓 | **Academic Excellence — CGPA 9.5 / 10.0** | Consistent top performer across all semesters at BIHER CSE |
+| 🎓 | **Academic Excellence — CGPA 9.0 / 10.0** | Consistent top performer across all semesters at BIHER CSE |
 | 🚀 | **12+ End-to-End Projects Shipped** | Spanning national identity platforms, IoT wearables, ML pipelines & full-stack web apps |
 | ⚡ | **25% API Performance Optimization** | Achieved on the distributed cloud-edge healthcare framework |
 | 🎯 | **~90% ML Model Accuracy** | CNN-based object detection pipeline for Tender Coconut Grader |
@@ -206,7 +212,7 @@ const madhan = {
 
 | Degree | Institution | Year | Score |
 |---|---|---|---|
-| **B.Tech — Computer Science Engineering** | Bharath Institute of Higher Education and Research (BIHER), Chennai | 2024 – 2028 (Expected) | **CGPA: 9.5 / 10.0** |
+| **B.Tech — Computer Science Engineering** | Bharath Institute of Higher Education and Research (BIHER), Chennai | 2024 – 2028 (Expected) | **CGPA: 9.0 / 10.0** |
 | Higher Secondary Certificate (HSC) | Dawn Shikshalaya Public School | 2024 | **86.80%** |
 | Secondary School Leaving Certificate (SSLC) | Dawn Shikshalaya Public School | 2022 | **78.80%** |
 
@@ -236,4 +242,4 @@ const madhan = {
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling)
