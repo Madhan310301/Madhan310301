@@ -22,22 +22,23 @@ const madhan = {
   name:       "Madhan Kumar T",
   location:   "Chennai, Tamil Nadu, India 🇮🇳",
   degree:     "B.Tech CSE @ BIHER (2024–2028)",
-  cgpa:       9.5,
+  cgpa:       9.0,
 
   stack: [
     "React", "Node.js", "TypeScript",
     "Python", "MongoDB", "Supabase",
-    "ESP32C3", "TensorFlow", "OpenCV"
+    "Microcontrollers & Microprocessors", "TensorFlow", "OpenCV"
   ],
 
   currentlyLearning: [
     "Agent Memory Infrastructure",
     "TinyML / Edge AI",
+    "Blind People Braille Language Detection",
     "LLM Evaluation Frameworks",
     "System Design at Scale"
   ],
 
-  shipped: "12+ end-to-end projects",
+  shipped: "14+ end-to-end projects",
   funFact:  "Built an IoT child-safety wearable from scratch in 24 hours 🏆",
 
   motto: () => "Ship fast. Think modular. Build for impact.",
