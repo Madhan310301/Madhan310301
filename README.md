@@ -27,13 +27,14 @@ const madhan = {
   stack: [
     "React", "Node.js", "TypeScript",
     "Python", "MongoDB", "Supabase",
-    "ESP32C3", "TensorFlow", "OpenCV"
+    "MicroControllers & MicroProcessors", "TensorFlow", "OpenCV"
   ],
 
   currentlyLearning: [
     "Agent Memory Infrastructure",
     "TinyML / Edge AI",
     "LLM Evaluation Frameworks",
+    "Camera Based Braille Language Blind People Helper",
     "System Design at Scale"
   ],
 
