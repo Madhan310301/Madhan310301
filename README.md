@@ -15,7 +15,7 @@
 </svg>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=900&lines=AI+%7C+ML+%7C+Deep+Learning+%7C+IoT+%7C+React+%7C+Node.js;Building+AI-Powered+Full-Stack+Systems+%F0%9F%9A%80;12%2B+Projects+Shipped+End-to-End+%F0%9F%94%A5;CGPA+9.0+%7C+BIHER+Chennai+%7C+CSE+2028" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=900&lines=AI+%7C+ML+%7C+Deep+Learning+%7C+IoT+%7C+React+%7C+Node.js;Building+AI-Powered+Full-Stack+Systems+%F0%9F%9A%80;10%2B+Projects+Shipped+End-to-End+%F0%9F%94%A5;CGPA+9.0+%7C+BIHER+Chennai+%7C+CSE+2028" alt="Typing SVG" />
 </a>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Madhan310301&label=Profile%20Views&color=70a5fd&style=flat-square)](https://github.com/Madhan310301)
