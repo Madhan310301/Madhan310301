@@ -115,12 +115,6 @@ const madhan = {
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Madhan310301&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhan310301&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
 
 ## 🔥 Streak
 
@@ -137,16 +131,6 @@ const madhan = {
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Madhan310301&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
-
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Madhan310301&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
 
 </div>
 
