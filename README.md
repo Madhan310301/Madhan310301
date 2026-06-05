@@ -1,25 +1,143 @@
-<div align="center">
-
-<svg width="900" height="180" xmlns="http://www.w3.org/2000/svg">
+<svg width="1200" height="240" viewBox="0 0 1200 240" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0d1117;stop-opacity:1" />
-      <stop offset="50%" style="stop-color:#1a1b4b;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#0d1117;stop-opacity:1" />
+    <!-- Dark background gradient -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%"   stop-color="#0d1117"/>
+      <stop offset="50%"  stop-color="#1a1b4b"/>
+      <stop offset="100%" stop-color="#0d1117"/>
     </linearGradient>
-  </defs>
-  <rect width="900" height="180" fill="url(#grad)" rx="0"/>
-  <path d="M0,140 Q225,100 450,130 Q675,160 900,120 L900,180 L0,180 Z" fill="#161b22" opacity="0.6"/>
-  <text x="450" y="75" font-family="'Segoe UI', Arial, sans-serif" font-size="38" font-weight="bold" fill="white" text-anchor="middle" letter-spacing="2">Madhan Kumar T</text>
-  <text x="450" y="115" font-family="'Segoe UI', Arial, sans-serif" font-size="16" fill="#70a5fd" text-anchor="middle" letter-spacing="1"> · Software Developer · AI Developer · IoT Builder · Full-Stack Developer &amp; ML Developer</text>
-</svg>
 
+    <!-- Top wave glow -->
+    <linearGradient id="waveGlow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#70a5fd" stop-opacity="0.0"/>
+      <stop offset="30%"  stop-color="#70a5fd" stop-opacity="0.6"/>
+      <stop offset="70%"  stop-color="#bf91f3" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#bf91f3" stop-opacity="0.0"/>
+    </linearGradient>
+
+    <!-- Text glow filter -->
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Subtle glow for desc -->
+    <filter id="softGlow" x="-10%" y="-20%" width="120%" height="140%">
+      <feGaussianBlur stdDeviation="2" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Star dots -->
+    <radialGradient id="starGrad">
+      <stop offset="0%"   stop-color="#ffffff" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+
+    <clipPath id="svgClip">
+      <rect width="1200" height="240"/>
+    </clipPath>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="240" fill="url(#bgGrad)"/>
+
+  <!-- Star field -->
+  <g clip-path="url(#svgClip)" opacity="0.7">
+    <circle cx="80"  cy="30"  r="1.2" fill="#ffffff" opacity="0.8"/>
+    <circle cx="150" cy="60"  r="0.8" fill="#70a5fd" opacity="0.9"/>
+    <circle cx="240" cy="20"  r="1.0" fill="#ffffff" opacity="0.6"/>
+    <circle cx="320" cy="50"  r="1.4" fill="#bf91f3" opacity="0.8"/>
+    <circle cx="420" cy="15"  r="0.9" fill="#ffffff" opacity="0.7"/>
+    <circle cx="500" cy="45"  r="1.1" fill="#70a5fd" opacity="0.9"/>
+    <circle cx="580" cy="25"  r="0.7" fill="#ffffff" opacity="0.5"/>
+    <circle cx="680" cy="55"  r="1.3" fill="#bf91f3" opacity="0.8"/>
+    <circle cx="760" cy="18"  r="1.0" fill="#ffffff" opacity="0.7"/>
+    <circle cx="860" cy="40"  r="0.8" fill="#70a5fd" opacity="0.9"/>
+    <circle cx="940" cy="22"  r="1.2" fill="#ffffff" opacity="0.6"/>
+    <circle cx="1050" cy="50" r="1.1" fill="#bf91f3" opacity="0.8"/>
+    <circle cx="1120" cy="28" r="0.9" fill="#ffffff" opacity="0.7"/>
+    <circle cx="50"   cy="80" r="0.8" fill="#70a5fd" opacity="0.6"/>
+    <circle cx="200"  cy="90" r="1.0" fill="#ffffff" opacity="0.5"/>
+    <circle cx="380"  cy="70" r="0.7" fill="#bf91f3" opacity="0.7"/>
+    <circle cx="650"  cy="85" r="1.2" fill="#70a5fd" opacity="0.6"/>
+    <circle cx="900"  cy="75" r="0.9" fill="#ffffff" opacity="0.5"/>
+    <circle cx="1150" cy="80" r="1.0" fill="#bf91f3" opacity="0.7"/>
+  </g>
+
+  <!-- Waving top edge shape -->
+  <path d="M0,0 L1200,0 L1200,60 Q1050,100 900,70 Q750,40 600,75 Q450,110 300,70 Q150,30 0,60 Z"
+        fill="#0d1117" opacity="0.35"/>
+
+  <!-- Top glowing wave line -->
+  <path d="M0,58 Q150,28 300,68 Q450,108 600,73 Q750,38 900,68 Q1050,98 1200,58"
+        stroke="url(#waveGlow)" stroke-width="2.5" fill="none" opacity="0.9"/>
+
+  <!-- Second subtle wave -->
+  <path d="M0,65 Q200,42 400,72 Q600,100 800,65 Q1000,32 1200,65"
+        stroke="#70a5fd" stroke-width="0.8" fill="none" opacity="0.25"/>
+
+  <!-- Bottom wave shape -->
+  <path d="M0,240 L1200,240 L1200,185 Q1000,155 800,185 Q600,215 400,185 Q200,155 0,185 Z"
+        fill="#0d1117" opacity="0.4"/>
+
+  <!-- Bottom glowing wave line -->
+  <path d="M0,187 Q200,157 400,187 Q600,217 800,187 Q1000,157 1200,187"
+        stroke="url(#waveGlow)" stroke-width="2.5" fill="none" opacity="0.9"/>
+
+  <!-- Decorative circuit-line left -->
+  <line x1="30" y1="120" x2="130" y2="120" stroke="#70a5fd" stroke-width="1" opacity="0.3"/>
+  <circle cx="130" cy="120" r="3" fill="none" stroke="#70a5fd" stroke-width="1" opacity="0.4"/>
+  <line x1="30" y1="120" x2="30" y2="145" stroke="#70a5fd" stroke-width="1" opacity="0.2"/>
+
+  <!-- Decorative circuit-line right -->
+  <line x1="1170" y1="120" x2="1070" y2="120" stroke="#bf91f3" stroke-width="1" opacity="0.3"/>
+  <circle cx="1070" cy="120" r="3" fill="none" stroke="#bf91f3" stroke-width="1" opacity="0.4"/>
+  <line x1="1170" y1="120" x2="1170" y2="95" stroke="#bf91f3" stroke-width="1" opacity="0.2"/>
+
+  <!-- Main name text with glow -->
+  <text
+    x="600" y="128"
+    font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif"
+    font-size="58"
+    font-weight="800"
+    letter-spacing="2"
+    text-anchor="middle"
+    fill="#ffffff"
+    filter="url(#glow)"
+  >Madhan Kumar T</text>
+
+  <!-- Desc text with gradient color + glow -->
+  <text
+    x="600" y="168"
+    font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif"
+    font-size="15"
+    font-weight="400"
+    letter-spacing="3"
+    text-anchor="middle"
+    fill="#a0b8f0"
+    filter="url(#softGlow)"
+    opacity="0.95"
+  >Software Engineer  ·  AI Developer  ·  IoT Builder  ·  Full-Stack &amp; ML</text>
+
+  <!-- Thin accent underline under name -->
+  <line x1="390" y1="137" x2="810" y2="137" stroke="url(#waveGlow)" stroke-width="1.5" opacity="0.5"/>
+</svg>
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=900&lines=AI+%7C+ML+%7C+Deep+Learning+%7C+IoT+%7C+React+%7C+Node.js;Building+AI-Powered+Full-Stack+Systems+%F0%9F%9A%80;14%2B+Projects+Shipped+End-to-End+%F0%9F%94%A5;CGPA+9.0+%7C+BIHER+Chennai+%7C+CSE+2028" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=900&lines=AI+%7C+ML+%7C+Deep+Learning+%7C+IoT+%7C+React+%7C+Node.js;Building+AI-Powered+Full-Stack+Systems+%F0%9F%9A%80;14%2B+Projects+Shipped+End-to-End+%F0%9F%94%A5;CGPA+9.0+%7C+BIHER+Chennai+%7C+CSE+2028;2x+Hackathon+Prize+Winner+%F0%9F%8F%86" alt="Typing SVG" />
 </a>
+
+<br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Madhan310301&label=Profile%20Views&color=70a5fd&style=flat-square)](https://github.com/Madhan310301)
 [![GitHub followers](https://img.shields.io/github/followers/Madhan310301?label=Followers&style=flat-square&color=bf91f3)](https://github.com/Madhan310301)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:maddymadhan3103@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/madhankumart)
 
 </div>
 
@@ -27,16 +145,14 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-
-<div>
+<img align="right" width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```javascript
 const madhan = {
-  name:       "Madhan Kumar T",
-  location:   "Chennai, Tamil Nadu, India 🇮🇳",
-  degree:     "B.Tech CSE @ BIHER (2024–2028)",
-  cgpa:       9.0,
+  name:     "Madhan Kumar T",
+  location: "Chennai, Tamil Nadu, India 🇮🇳",
+  degree:   "B.Tech CSE @ BIHER (2024–2028)",
+  cgpa:     9.0,
 
   stack: [
     "React", "Node.js", "TypeScript",
@@ -44,23 +160,32 @@ const madhan = {
     "ESP32C3", "TensorFlow", "OpenCV"
   ],
 
-  currentlyLearning: [
+  currentlyExploring: [
     "Agent Memory Infrastructure",
     "TinyML / Edge AI",
     "LLM Evaluation Frameworks",
     "System Design at Scale"
   ],
 
-  shipped: "12+ end-to-end projects",
-  funFact:  "Built an IoT child-safety wearable in 24 hours 🏆",
-
+  shipped:  "14+ end-to-end projects",
+  funFact:  "Built an IoT child-safety wearable in 24 hrs 🏆",
   motto: () => "Ship fast. Think modular. Build for impact.",
 };
 ```
 
-</div>
-
 <br clear="right"/>
+
+---
+
+## 🏅 Highlights
+
+<div align="center">
+
+| 🏆 2x Hackathon Winner | 🎓 CGPA 9.0 / 10.0 | 🚀 14+ Projects Shipped | ⚡ AI · IoT · Full-Stack |
+|:-:|:-:|:-:|:-:|
+| Genesis Hackathon 2026 — Domain 1st + Overall 2nd | BIHER, Chennai | Spanning ML, IoT, Web & Identity Systems | End-to-end across the full product stack |
+
+</div>
 
 ---
 
@@ -81,6 +206,7 @@ const madhan = {
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
 **Backend & Databases**
 
@@ -91,46 +217,47 @@ const madhan = {
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-**AI / ML & Deep Learning**
+**AI / ML & Computer Vision**
 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![CNN](https://img.shields.io/badge/CNN%20%2F%20Deep%20Learning-412991?style=flat-square&logo=pytorch&logoColor=white)
 ![LLM APIs](https://img.shields.io/badge/LLM%20APIs-10a37f?style=flat-square&logo=openai&logoColor=white)
 
-**IoT & Embedded**
+**IoT & Embedded Systems**
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32C3-E7352C?style=flat-square&logo=espressif&logoColor=white)
 ![GPS](https://img.shields.io/badge/NEO--6M%20GPS-0078D7?style=flat-square&logo=googlemaps&logoColor=white)
 ![GSM](https://img.shields.io/badge/SIM800L%20GSM-1A73E8?style=flat-square&logo=google&logoColor=white)
+![MPU6050](https://img.shields.io/badge/MPU6050%20IMU-FF6900?style=flat-square)
 
-**Tools & Platforms**
+**DevOps & Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
 
 ---
 
-
-## 🔥 Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Madhan310301&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
-
-</div>
-
----
-
-## 📈 Activity Graph
+## 🚀 Featured Projects
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Madhan310301&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
+| 🔷 Project | 🛠️ Stack | ✨ What It Does |
+|---|---|---|
+| [**SarvaJeevaID**](https://github.com/Madhan310301) | React · TypeScript · Supabase · PostgreSQL · RBAC | National-scale unified digital identity platform for citizens, animals & institutions. Secure multi-role RBAC with real-time data sync — scoped for Aadhaar-level deployment. |
+| [**SafeGuard AI**](https://github.com/Madhan310301) 🏆 | ESP32C3 · GPS · MPU6050 · SIM800L · React · Supabase | IoT child safety wearable built in **24 hours** — GPS tracking, fall detection, GSM emergency alerts & a parent-only RBAC dashboard. Won **2 prizes** at Genesis Hackathon 2026. |
+| [**NutriLens AI**](https://github.com/Madhan310301) | React · Vite · Gemini Vision · PostgreSQL · Drizzle | Snap a photo → get a 32-nutrient breakdown in 1.5s. Multimodal fusion of image + text, instance segmentation for multi-item plate detection, offline-ready TFLite core. |
+| [**PredMaintain**](https://github.com/Madhan310301) | Python · Scikit-learn · TensorFlow · LSTM · Grafana | ML-powered predictive maintenance system — 93–97% fault accuracy, < 10hr RUL prediction error, < 200ms inference. Monitors up to 500 machines concurrently. |
+| [**Cloud-Edge Healthcare AI**](https://github.com/Madhan310301) | React · Node.js · Express · MongoDB · Python ML | Distributed cloud-edge architecture for real-time IoT health monitoring. AI-driven predictive health alerts dashboard. **25% lower API latency** vs baseline. |
+| [**AI Finance Coach**](https://github.com/Madhan310301) | Python · React · TypeScript · LLM APIs | Conversational AI financial advisor with portfolio grading based on diversification, risk profile & historical return analysis. |
+| [**Voice Personal Assistant**](https://github.com/Madhan310301) | Python · LLM APIs · React · Node.js | Multi-capability voice AI handling scheduling, research & task management with context-aware response generation. |
+| [**Tender Coconut Grader**](https://github.com/Madhan310301) | Python · OpenCV · CNN · TensorFlow | CNN-based agricultural object detection pipeline — **~90% classification accuracy** grading tender coconuts by quality. |
 
 </div>
 
@@ -139,60 +266,85 @@ const madhan = {
 ## 💼 Experience & Leadership
 
 <details>
-<summary><b>🥇 Lead Builder & Presenter · Genesis Hackathon 2026 · SRMEEC Chennai</b> — 2026</summary>
+<summary><b>🥇 Lead Builder & Presenter · Genesis Hackathon 2026 · SRMEEC Chennai</b></summary>
+<br/>
 
-> `ESP32C3` `NEO-6M GPS` `MPU6050` `SIM800L` `React` `TypeScript` `Supabase` `Blender`
+> `ESP32C3` `NEO-6M GPS` `MPU6050` `SIM800L` `React` `TypeScript` `Supabase` `Blender 3D`
 
-- Built **SafeGuard AI** — an end-to-end IoT child safety wearable with GPS tracking, fall detection, GSM emergency alerts, and a parent-only RBAC web dashboard — entirely in **24 hours**.
-- Delivered a Blender 3D product animation and pitched **Shark Tank-style** to a panel of investors and industry judges.
-- Won **Overall Second Prize** and **Domain-Wise First Prize** at the hackathon.
-- Managed hardware integration, full-stack web app, 3D animation, and investor pitch simultaneously.
+- Built **SafeGuard AI** — an end-to-end IoT child safety wearable with GPS tracking, fall detection, GSM emergency alerts, and a parent-only RBAC web dashboard — entirely in **24 hours**
+- Delivered a Blender 3D product animation and pitched **Shark Tank-style** to a panel of investors and industry judges
+- Won **Overall Second Prize** and **Domain-Wise First Prize** among 111 competing teams
+- Simultaneously managed hardware integration, full-stack web development, 3D animation, and live investor pitch
 
 </details>
 
 <details>
 <summary><b>📋 Event Coordinator · BIHER, Chennai</b> — 2024 – Present</summary>
+<br/>
 
-> `Team Leadership` `Event Management` `Communication` `Logistics`
+> `Team Leadership` `Event Management` `Technical Communication` `Logistics`
 
-- Planned and ran technical workshops, inter-batch events, and student club initiatives across the CSE batch.
-- Handled team logistics, communication, and ensured high participation for all department events.
-- Managed official attendance records, marks sheets, and documentation for the CSE batch (U24CS).
+- Planned and ran technical workshops, inter-batch events, and student club initiatives for the CSE department
+- Managed official attendance records, marks sheets, and documentation for batch U24CS
+- Handled team logistics, communication, and ensured high participation across all department events
+
+</details>
+
+<details>
+<summary><b>🎙️ Google Student Ambassador (GSA) 2026</b> — 2026</summary>
+<br/>
+
+> `AI Advocacy` `Campus Outreach` `Gemini` `NotebookLM` `Content Creation`
+
+- Conducted structured campus interviews with student entrepreneurs about AI tool usage (Gemini, NotebookLM)
+- Created 10-persona interview scripts and produced LinkedIn + Instagram content documentation
+- Submitted PowerPoint-based task reports covering Tasks 1–3 for the GSA 2026 program
 
 </details>
 
 ---
 
-## 🚀 Featured Projects
+## 🏆 Achievements
 
 <div align="center">
 
-| Project | Stack | Highlights |
-|---|---|---|
-| [**SarvaJeevaID**](https://github.com/Madhan310301) | React · TypeScript · Supabase · PostgreSQL · RBAC | National-scale unified digital identity platform for citizens, animals & institutions. Secure multi-role RBAC with real-time data sync. Scoped for Aadhaar-scale deployment. |
-| [**SafeGuard AI — Child Safety Wearable**](https://github.com/Madhan310301) | ESP32C3 · GPS · MPU6050 · SIM800L · React · Supabase | End-to-end IoT child safety wearable shipped in **24 hrs**. GPS + fall detection + GSM alerts + parent-only RBAC dashboard. Won **2 prizes** at Genesis Hackathon 2026. |
-| [**AI Cloud-Edge Healthcare Framework**](https://github.com/Madhan310301) | React · Node.js · Express · MongoDB · Python ML | Distributed cloud-edge architecture for real-time IoT health monitoring. **25% lower API latency**. AI-driven predictive health alerts dashboard. |
-| [**ML Machine Health Tracker**](https://github.com/Madhan310301) | Python · scikit-learn · Regression · Classification | Predictive maintenance model reducing simulated downtime by **20%**. Reusable ML pipeline with anomaly detection. |
-| [**AI Finance Coach & Grader — FinTech AI**](https://github.com/Madhan310301) | Python · React · TypeScript · LLM APIs | Conversational AI financial advisor with portfolio grading based on diversification, risk profile & historical returns. |
-| [**AI Personal Assistant — Voice-Based**](https://github.com/Madhan310301) | Python · LLM APIs · React · Node.js | Multi-capability voice AI assistant handling scheduling, research & task management with context-aware responses. |
+| 🏅 | Achievement | Context |
+|:-:|---|---|
+| 🥇 | **Genesis Hackathon 2026 — Domain-Wise First Prize** | SafeGuard AI IoT wearable, built in 24 hours · SRMEEC Chennai · 111 teams |
+| 🥈 | **Genesis Hackathon 2026 — Overall Second Prize** | Shark Tank-style pitch with hardware, web app & 3D animation |
+| 🎓 | **CGPA 9.0 / 10.0** | Consistent top performer across all semesters · BIHER CSE |
+| 🚀 | **14+ End-to-End Projects Shipped** | ML pipelines, IoT systems, national identity platforms, full-stack web apps |
+| ⚡ | **25% API Latency Optimization** | Distributed cloud-edge healthcare framework |
+| 🎯 | **~90% ML Accuracy** | CNN-based object detection for Tender Coconut Grader |
+| 🏥 | **Real Client Delivery** | Raghavendra Medicals — live pharmacy management & ordering system |
 
 </div>
 
 ---
 
-## 🏅 Achievements
+## 📈 GitHub Stats
 
 <div align="center">
 
-| 🏆 | Achievement | Details |
-|---|---|---|
-| 🥇 | **Genesis Hackathon 2026 — Domain-Wise First Prize** | Built SafeGuard AI (IoT child safety wearable) in 24 hours at SRMEEC Chennai |
-| 🥈 | **Genesis Hackathon 2026 — Overall Second Prize** | Shark Tank-style investor pitch with hardware, web app & 3D animation |
-| 🎓 | **Academic Excellence — CGPA 9.0 / 10.0** | Consistent top performer across all semesters at BIHER CSE |
-| 🚀 | **12+ End-to-End Projects Shipped** | Spanning national identity platforms, IoT wearables, ML pipelines & full-stack web apps |
-| ⚡ | **25% API Performance Optimization** | Achieved on the distributed cloud-edge healthcare framework |
-| 🎯 | **~90% ML Model Accuracy** | CNN-based object detection pipeline for Tender Coconut Grader |
-| 🏥 | **Real Client Delivery** | Shipped Raghavendra Medicals — a live pharmacy management & ordering system |
+<img src="https://streak-stats.demolab.com?user=Madhan310301&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak" width="48%"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Madhan310301&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=BF91F3&text_color=C9D1D9&border_radius=10" alt="GitHub Stats" width="48%"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhan310301&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&text_color=C9D1D9&border_radius=10" alt="Top Languages" width="40%"/>
+
+</div>
+
+---
+
+## 📊 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Madhan310301&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
 
 </div>
 
@@ -203,8 +355,8 @@ const madhan = {
 <div align="center">
 
 | Degree | Institution | Year | Score |
-|---|---|---|---|
-| **B.Tech — Computer Science Engineering** | Bharath Institute of Higher Education and Research (BIHER), Chennai | 2024 – 2028 (Expected) | **CGPA: 9.0 / 10.0** |
+|---|---|---|:-:|
+| **B.Tech — Computer Science Engineering** | Bharath Institute of Higher Education and Research (BIHER), Chennai | 2024 – 2028 | **CGPA 9.0** |
 | Higher Secondary Certificate (HSC) | Dawn Shikshalaya Public School | 2024 | **91.80%** |
 | Secondary School Leaving Certificate (SSLC) | Dawn Shikshalaya Public School | 2022 | **86.80%** |
 
@@ -215,32 +367,28 @@ const madhan = {
 ## 📚 Currently Exploring
 
 ```
-🧱 Agent Memory Infrastructure  →  Persistent context, vector stores, retrieval-augmented generation
-⚡ TinyML / Edge AI             →  On-device inference, ESP32 deployment, model quantization
-🔬 LLM Evaluation Frameworks   →  Benchmarking, hallucination detection, output scoring
-🏗️  System Design at Scale     →  Distributed systems, microservices, load balancing, CAP theorem
-🔐 RBAC & Auth Architecture    →  Supabase RLS, JWT flows, multi-role access control patterns
+🧱  Agent Memory Infrastructure  →  Persistent context, vector stores, RAG pipelines
+⚡  TinyML / Edge AI             →  On-device inference, ESP32 deployment, model quantization
+🔬  LLM Evaluation Frameworks    →  Benchmarking, hallucination detection, output scoring  
+🏗️  System Design at Scale       →  Distributed systems, microservices, CAP theorem
+🔐  RBAC & Auth Architecture     →  Supabase RLS, JWT flows, multi-role access control
+📊  Power BI / Tableau           →  Data storytelling, dashboard design, business intelligence
 ```
 
 ---
 
 <div align="center">
 
-📫 **Let's connect!**
+### 📫 Let's Build Something Together
 
-[![Email](https://img.shields.io/badge/Email-madhankumartbharathuniv@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:maddymadhan3103@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-madhankumart-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/madhankumart)
-[![GitHub](https://img.shields.io/badge/GitHub-Madhan310301-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Madhan310301)
+[![Email](https://img.shields.io/badge/Gmail-madhankumartbharathuniv%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madhankumartbharathuniv@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-madhankumart-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/madhankumart)
+[![GitHub](https://img.shields.io/badge/GitHub-Madhan310301-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Madhan310301)
+
+<br/>
+
+*Open to internships, collaborations, and freelance projects.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b4b,100:0d1117&height=140&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
-
-<svg width="100%" height="120" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 120">
-  <defs>
-    <linearGradient id="footerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#0d1117"/>
-      <stop offset="50%" style="stop-color:#1a1b4b"/>
-      <stop offset="100%" style="stop-color:#0d1117"/>
-    </linearGradient>
-  </defs>
-  <path d="M0,60 Q225,10 450,50 Q675,90 900,30 L900,120 L0,120 Z" fill="url(#footerGrad)"/>
-</svg>
