@@ -1,64 +1,54 @@
 <div align="center">
 
-<svg width="900" height="180" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0d1117;stop-opacity:1" />
-      <stop offset="50%" style="stop-color:#1a1b4b;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#0d1117;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  <rect width="900" height="180" fill="url(#grad)" rx="0"/>
-  <path d="M0,140 Q225,100 450,130 Q675,160 900,120 L900,180 L0,180 Z" fill="#161b22" opacity="0.6"/>
-  <text x="450" y="75" font-family="'Segoe UI', Arial, sans-serif" font-size="38" font-weight="bold" fill="white" text-anchor="middle" letter-spacing="2">Madhan Kumar T</text>
-  <text x="450" y="115" font-family="'Segoe UI', Arial, sans-serif" font-size="16" fill="#70a5fd" text-anchor="middle" letter-spacing="1"> · Software Developer · AI Developer · IoT Builder · Full-Stack Developer &amp; ML Developer</text>
-</svg>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Madhan%20Kumar%20T&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20IoT%20Builder&descAlignY=55&descSize=20" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=900&lines=AI+%7C+ML+%7C+Deep+Learning+%7C+IoT+%7C+React+%7C+Node.js;Building+AI-Powered+Full-Stack+Systems+%F0%9F%9A%80;14%2B+Projects+Shipped+End-to-End+%F0%9F%94%A5;CGPA+9.0+%7C+BIHER+Chennai+%7C+CSE+2028" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=820&lines=Building+Intelligent+Systems+at+Scale;AI%2FML+Engineer+%7C+Full-Stack+Developer+%7C+IoT+Builder;Computer+Vision+%7C+NLP+%7C+Cross-Modal+Retrieval;Third-Year+CSE+%40+BIHER%2C+Chennai;19%2B+Projects+Shipped+End-to-End" alt="Typing SVG" />
 </a>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Madhan310301&label=Profile%20Views&color=70a5fd&style=flat-square)](https://github.com/Madhan310301)
-[![GitHub followers](https://img.shields.io/github/followers/Madhan310301?label=Followers&style=flat-square&color=bf91f3)](https://github.com/Madhan310301)
+<br/>
+
+<img src="https://img.shields.io/badge/B.Tech-Computer%20Science%20Engineering-6D28D9?style=for-the-badge&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/BIHER-Chennai-4C1D95?style=for-the-badge&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/CGPA-9.0%2F10-7C3AED?style=for-the-badge&labelColor=1a1a2e"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/📍_Chennai,_Tamil_Nadu-8B5CF6?style=flat-square&labelColor=1a1a2e"/>
+
+<br/><br/>
+
+<a href="https://madhan.vercel.app"><img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e"/></a>
+<a href="https://linkedin.com/in/madhankumart"><img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e"/></a>
+<a href="mailto:madhankumartbharathuniv@gmail.com"><img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/></a>
+<a href="https://github.com/Madhan310301"><img src="https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Madhan310301&style=for-the-badge&color=6d28d9&labelColor=1a1a2e&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/Madhan310301?style=for-the-badge&color=7c3aed&labelColor=1a1a2e&label=FOLLOWERS"/>
+<img src="https://img.shields.io/github/stars/Madhan310301?style=for-the-badge&color=8b5cf6&labelColor=1a1a2e&label=STARS"/>
 
 </div>
+
+<br/>
 
 ---
 
-## 🧑‍💻 About Me
+## 🧠 About Me
 
-<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" alt="coding" width="280" src="https://raw.githubusercontent.com/aditya1601/aditya1601/output/snake.svg">
 
-<div>
+I'm a **third-year Computer Science Engineering** student at **BIHER, Chennai**, engineering intelligent systems at the intersection of **Machine Learning, Computer Vision, IoT, and Full-Stack Product Development**. My work ranges from **cross-modal satellite image retrieval** to **IoT-based safety hardware shipped in 24 hours** — I build systems, not just scripts.
 
-```javascript
-const madhan = {
-  name:       "Madhan Kumar T",
-  location:   "Chennai, Tamil Nadu, India 🇮🇳",
-  degree:     "B.Tech CSE @ BIHER (2024–2028)",
-  cgpa:       9.0,
+- 🔭 Currently engineering **SatBridge** — a cross-modal SAR/optical satellite retrieval system for **ISRO's Bharatiya Antariksh Hackathon 2026**
+- 🥇 Built **SafePathAI**, an IoT child-safety wearable, end-to-end in **24 hours** — won **Overall 2nd Prize** and **Domain 1st Prize** at Genesis Hackathon 2026
+- 🌐 Full-stack product engineer — **React, Next.js, Node.js, FastAPI, Supabase**
+- 🧬 Deep focus on **Deep Learning & Retrieval Systems** (DualEncoder architectures, FAISS, contrastive/InfoNCE loss)
+- 🏆 Google Student Ambassador (GID 3150) · HCLTech Campus Ambassador · Event Coordinator, BIHER CSE
+- ⚙️ Engineering philosophy: **honest metrics over inflated demos** — I ship what's real, not what looks good in a slide
 
-  stack: [
-    "React", "Node.js", "TypeScript",
-    "Python", "MongoDB", "Supabase",
-    "ESP32C3", "TensorFlow", "OpenCV"
-  ],
-
-  currentlyLearning: [
-    "Agent Memory Infrastructure",
-    "TinyML / Edge AI",
-    "LLM Evaluation Frameworks",
-    "System Design at Scale"
-  ],
-
-  shipped: "12+ end-to-end projects",
-  funFact:  "Built an IoT child-safety wearable in 24 hours 🏆",
-
-  motto: () => "Ship fast. Think modular. Build for impact.",
-};
-```
-
-</div>
+**Open To:** AI/ML Engineering Internships · Backend Engineering Roles · Research Collaborations · Open Source Contributions
 
 <br clear="right"/>
 
@@ -68,133 +58,308 @@ const madhan = {
 
 **Languages**
 
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts,html,css&theme=dark"/>
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,vue,flutter,figma&theme=dark"/>
 
 **Backend & Databases**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi,mongodb,mysql,postgres,redis,firebase&theme=dark"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
 
 **AI / ML & Deep Learning**
 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![CNN](https://img.shields.io/badge/CNN%20%2F%20Deep%20Learning-412991?style=flat-square&logo=pytorch&logoColor=white)
-![LLM APIs](https://img.shields.io/badge/LLM%20APIs-10a37f?style=flat-square&logo=openai&logoColor=white)
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&theme=dark"/>
+<img src="https://img.shields.io/badge/LLM%20APIs%20%2F%20LangChain-10a37f?style=flat-square&logo=openai&logoColor=white"/>
 
 **IoT & Embedded**
 
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32C3-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![GPS](https://img.shields.io/badge/NEO--6M%20GPS-0078D7?style=flat-square&logo=googlemaps&logoColor=white)
-![GSM](https://img.shields.io/badge/SIM800L%20GSM-1A73E8?style=flat-square&logo=google&logoColor=white)
+<img src="https://skillicons.dev/icons?i=arduino&theme=dark"/>
+<img src="https://img.shields.io/badge/ESP32C3-E7352C?style=flat-square&logo=espressif&logoColor=white"/>
+<img src="https://img.shields.io/badge/NEO--6M%20GPS-0078D7?style=flat-square&logo=googlemaps&logoColor=white"/>
+<img src="https://img.shields.io/badge/SIM800L%20GSM-1A73E8?style=flat-square&logo=google&logoColor=white"/>
 
-**Tools & Platforms**
+**Cloud, DevOps & Tooling**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
+<img src="https://skillicons.dev/icons?i=docker,aws,gcp,git,github,githubactions,vercel,postman,blender&theme=dark"/>
+
+<br/>
 
 ---
 
-
-## 🔥 Streak
+## 🤖 AI / ML Expertise
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Madhan310301&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
+| Domain | Proficiency | Details |
+|---|:---:|---|
+| **Computer Vision** | ⭐⭐⭐⭐⭐ | CNNs, transfer learning (ResNet18, MobileNetV2), cross-modal retrieval, YOLOv8, OpenCV pipelines |
+| **Deep Learning** | ⭐⭐⭐⭐⭐ | DualEncoder architectures, contrastive learning (InfoNCE), embedding spaces, PyTorch / TensorFlow |
+| **NLP & LLM Systems** | ⭐⭐⭐⭐ | RAG pipelines, LangChain agent orchestration, prompt engineering, LLM-powered applications |
+| **Retrieval Systems** | ⭐⭐⭐⭐⭐ | FAISS similarity search, shared embedding spaces, multi-sensor remote sensing retrieval |
+| **Classical ML** | ⭐⭐⭐⭐ | Scikit-learn, XGBoost, regression/classification, time-series forecasting |
+| **IoT & Embedded AI** | ⭐⭐⭐⭐ | Sensor fusion (GPS/GSM/IMU), on-device logic, real-time alerting on ESP32-class hardware |
+| **MLOps & Deployment** | ⭐⭐⭐⭐ | FastAPI/Flask model serving, Docker containerization, GPU-accelerated training on Colab |
 
 </div>
 
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Madhan310301&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
-
-</div>
-
----
-
-## 💼 Experience & Leadership
-
-<details>
-<summary><b>🥇 Lead Builder & Presenter · Genesis Hackathon 2026 · SRMEEC Chennai</b> — 2026</summary>
-
-> `ESP32C3` `NEO-6M GPS` `MPU6050` `SIM800L` `React` `TypeScript` `Supabase` `Blender`
-
-- Built **SafeGuard AI** — an end-to-end IoT child safety wearable with GPS tracking, fall detection, GSM emergency alerts, and a parent-only RBAC web dashboard — entirely in **24 hours**.
-- Delivered a Blender 3D product animation and pitched **Shark Tank-style** to a panel of investors and industry judges.
-- Won **Overall Second Prize** and **Domain-Wise First Prize** at the hackathon.
-- Managed hardware integration, full-stack web app, 3D animation, and investor pitch simultaneously.
-
-</details>
-
-<details>
-<summary><b>📋 Event Coordinator · BIHER, Chennai</b> — 2024 – Present</summary>
-
-> `Team Leadership` `Event Management` `Communication` `Logistics`
-
-- Planned and ran technical workshops, inter-batch events, and student club initiatives across the CSE batch.
-- Handled team logistics, communication, and ensured high participation for all department events.
-- Managed official attendance records, marks sheets, and documentation for the CSE batch (U24CS).
-
-</details>
+<br/>
 
 ---
 
 ## 🚀 Featured Projects
 
-<div align="center">
+<details>
+<summary><b>🛰️ SatBridge — Cross-Modal Satellite Image Retrieval</b></summary>
+<br/>
 
-| Project | Stack | Highlights |
+Cross-modal SAR/optical satellite image retrieval system built for **ISRO's Bharatiya Antariksh Hackathon 2026**. Uses a DualEncoder (ResNet18) architecture with InfoNCE contrastive loss to project SAR and optical imagery into a shared 256-dimensional embedding space, enabling FAISS-based nearest-neighbor retrieval across modalities.
+
+| | |
+|---|---|
+| **Stack** | Python, PyTorch, ResNet18, FAISS, FastAPI, Uvicorn, Next.js |
+| **Scale** | Trained on ~75,724 image pairs (Spring SEN1-2 dataset) |
+| **Performance** | 5-epoch baseline training with measurable early-stage retrieval accuracy |
+| **Security** | Isolated inference API, checkpoint versioning |
+| **Impact** | ISRO Bharatiya Antariksh Hackathon 2026 entry |
+| **Repository** | `Private / Team Repository` |
+
+</details>
+
+<details>
+<summary><b>👶 SafePathAI — IoT Child Safety Wearable</b></summary>
+<br/>
+
+End-to-end IoT child-safety wearable combining GPS tracking, fall/motion detection, and GSM-based emergency SMS alerting — shipped solo, start to finish, in **24 hours** for Genesis Hackathon 2026. Backed by a parent-only RBAC web dashboard and a Blender-rendered 3D product pitch.
+
+| | |
+|---|---|
+| **Stack** | ESP32C3, NEO-6M GPS, MPU6050, SIM800L GSM, React, TypeScript, Supabase, Blender |
+| **Scale** | Working hardware prototype + parent dashboard |
+| **Performance** | Real-time GPS/motion fusion, GSM alert dispatch with no data connectivity required |
+| **Security** | Emergency-only alerting, parent-only RBAC dashboard access |
+| **Impact** | 🏆 Genesis Hackathon 2026 — Overall 2nd Prize & Domain-Wise 1st Prize |
+| **Repository** | [github.com/Madhan310301](https://github.com/Madhan310301) |
+
+</details>
+
+<details>
+<summary><b>🆔 SarvaJeevaID — Integrated Life Tracking System</b></summary>
+<br/>
+
+National-scale concept platform assigning every citizen a lifelong unique ID that unifies healthcare, education, employment, and welfare records, with offline-first QR access for rural connectivity and automated dropout detection.
+
+| | |
+|---|---|
+| **Stack** | React 18 + TypeScript, Node.js, Express, PostgreSQL, Redis, Supabase, AWS S3 |
+| **Scale** | Designed with a national-deployment roadmap in mind |
+| **Performance** | Automated dropout-risk detection in days rather than weeks |
+| **Security** | Multi-role RBAC, consent-based access, encrypted record storage |
+| **Impact** | Concept & technical blueprint for unified citizen identity |
+| **Repository** | `Concept & Technical Blueprint` |
+
+</details>
+
+<details>
+<summary><b>🔗 HealAI — AI-Optimized Cloud-Edge Healthcare Framework</b></summary>
+<br/>
+
+Decentralized cloud-edge architecture for real-time IoT health monitoring, pairing an edge-inference layer with a cloud dashboard for predictive health alerts — built to cut round-trip latency for time-sensitive patient data.
+
+| | |
+|---|---|
+| **Stack** | React, Node.js, Express, MongoDB, Python (ML inference layer) |
+| **Scale** | Distributed cloud-edge deployment model |
+| **Performance** | ~25% lower API latency vs. a cloud-only baseline |
+| **Security** | Role-scoped dashboard access, encrypted health data pipelines |
+| **Impact** | AI-driven predictive alerts for at-risk patients |
+| **Repository** | `Private Repository` |
+
+</details>
+
+<details>
+<summary><b>⚙️ PredMaintain — ML Machine Health Tracker</b></summary>
+<br/>
+
+Predictive maintenance system that scores overall machine health from sensor and operating data, flagging anomalies before failure using a mix of classical ML and deep learning models.
+
+| | |
+|---|---|
+| **Stack** | Python, Scikit-learn, XGBoost, TensorFlow (LSTM), pandas |
+| **Scale** | Reusable pipeline across multiple simulated machine profiles |
+| **Performance** | ~20% reduction in simulated downtime vs. reactive maintenance baseline |
+| **Security** | Access-scoped monitoring dashboard |
+| **Impact** | Shifts maintenance from reactive to predictive |
+| **Repository** | `Private Repository` |
+
+</details>
+
+<details>
+<summary><b>🌱 AgriGrade — Tender Coconut & Turmeric Grader</b></summary>
+<br/>
+
+CNN-based computer vision pipeline that grades tender coconuts and turmeric by visual quality markers, aimed at reducing manual sorting time and inconsistency in agri-produce quality checks.
+
+| | |
+|---|---|
+| **Stack** | Python, TensorFlow/Keras, CNN, OpenCV, Flask |
+| **Scale** | Trained on curated agri-produce image datasets |
+| **Performance** | ~90% classification accuracy on quality-grade prediction |
+| **Security** | N/A (offline/local inference) |
+| **Impact** | Faster, more consistent produce grading vs. manual sorting |
+| **Repository** | `Private Repository` |
+
+</details>
+
+<details>
+<summary><b>💊 RM Online App — Pharmacy Ordering Platform (Raghavendra Medicals)</b></summary>
+<br/>
+
+Live pharmacy management and online ordering system built for a real client — **Raghavendra Medicals** — covering catalog browsing, order placement, and order tracking end-to-end.
+
+| | |
+|---|---|
+| **Stack** | React / Next.js, Node.js, Express, MongoDB, Payment Gateway Integration |
+| **Scale** | Deployed for a real, operating pharmacy business |
+| **Performance** | End-to-end order flow from browsing to fulfillment |
+| **Security** | Auth-gated checkout, order-data access controls |
+| **Impact** | ✅ Real client delivery — actively used by the business |
+| **Repository** | `Private / Client Repository` |
+
+</details>
+
+<details>
+<summary><b>🌆 CivicPulse — Hyperlocal Civic Issue Reporting</b></summary>
+<br/>
+
+Solo-built civic reporting platform enabling citizens to report local issues with photo + location; Gemini 1.5 Flash classifies and prioritizes reports for routing to the relevant authority.
+
+| | |
+|---|---|
+| **Stack** | Next.js 14, Gemini 1.5 Flash, Firebase, Cloud Run |
+| **Scale** | Built solo in ~1 week |
+| **Performance** | Real-time AI classification and routing |
+| **Security** | Firebase Auth, sanitized user submissions |
+| **Impact** | Vibe2Ship (CodingNinjas) hackathon submission |
+| **Repository** | [github.com/Madhan310301](https://github.com/Madhan310301) |
+
+</details>
+
+<details>
+<summary><b>🧩 More Projects — DocuAI · NexusAI · NutriLensAI · NeuroDot · FinTech · MemoAI · HabiAI · RenoAI · DrakoZu · People Watcher · AMH Hostel App</b></summary>
+<br/>
+
+| Project | Description | Stack |
 |---|---|---|
-| [**SarvaJeevaID**](https://github.com/Madhan310301) | React · TypeScript · Supabase · PostgreSQL · RBAC | National-scale unified digital identity platform for citizens, animals & institutions. Secure multi-role RBAC with real-time data sync. Scoped for Aadhaar-scale deployment. |
-| [**SafeGuard AI — Child Safety Wearable**](https://github.com/Madhan310301) | ESP32C3 · GPS · MPU6050 · SIM800L · React · Supabase | End-to-end IoT child safety wearable shipped in **24 hrs**. GPS + fall detection + GSM alerts + parent-only RBAC dashboard. Won **2 prizes** at Genesis Hackathon 2026. |
-| [**AI Cloud-Edge Healthcare Framework**](https://github.com/Madhan310301) | React · Node.js · Express · MongoDB · Python ML | Distributed cloud-edge architecture for real-time IoT health monitoring. **25% lower API latency**. AI-driven predictive health alerts dashboard. |
-| [**ML Machine Health Tracker**](https://github.com/Madhan310301) | Python · scikit-learn · Regression · Classification | Predictive maintenance model reducing simulated downtime by **20%**. Reusable ML pipeline with anomaly detection. |
-| [**AI Finance Coach & Grader — FinTech AI**](https://github.com/Madhan310301) | Python · React · TypeScript · LLM APIs | Conversational AI financial advisor with portfolio grading based on diversification, risk profile & historical returns. |
-| [**AI Personal Assistant — Voice-Based**](https://github.com/Madhan310301) | Python · LLM APIs · React · Node.js | Multi-capability voice AI assistant handling scheduling, research & task management with context-aware responses. |
+| **DocuAI** | AI document reader with OCR + RAG-based Q&A over PDFs | Python, PyMuPDF, LangChain, GPT-4, FastAPI |
+| **NexusAI** | Personal AI assistant with voice, scheduling & task automation | Python, LangChain, GPT-4, Whisper, FastAPI |
+| **NutriLensAI** | Photo-based calorie & macro estimator | PyTorch, CNN, Nutrition API, FastAPI |
+| **NeuroDot** | Camera-based Braille language detector, no external API | Python, OpenCV, custom CNN, pyttsx3 |
+| **FinTech** | AI financial coach that grades financial health from spending/income patterns and recommends savings/investment moves | Python, Scikit-learn, XGBoost, NLP transformers, Flask |
+| **MemoAI** | AI diary companion that expands short notes/voice snippets into full journal entries in your own tone | Python, GPT-based LLM, Whisper, Flask, Next.js |
+| **HabiAI** | Daily habit tracker with streak analytics and adaptive reminder scheduling based on behavior patterns | React Native, Node.js, MongoDB, Scikit-learn, Firebase Cloud Messaging |
+| **RenoAI** | Conversational AI agent for home renovation planning — cost estimates, material suggestions, style mood boards | Next.js, LangChain, GPT-4, Firebase |
+| **DrakoZu** | E-commerce site for custom printed T-shirts with a live design canvas and order fulfillment dashboard | React, Node.js, Express, MongoDB, Cloudinary, Razorpay |
+| **People Watcher** | Crowd density estimation & anomaly detection for public-safety monitoring | Python, OpenCV, YOLOv8, DeepSORT, Flask |
+| **AMH Hostel App** | Hostel room/bed booking system with online fee payment and an admin occupancy panel | React, Node.js, Express, MySQL, Razorpay, JWT |
 
-</div>
+</details>
+
+<br/>
 
 ---
 
-## 🏅 Achievements
+## 💼 Experience & Leadership
+
+### **Lead Builder & Presenter — Genesis Hackathon 2026**
+**SRMEEC, Chennai**
+`2026`
+
+Designed, built, and pitched **SafePathAI** — an IoT child-safety wearable — entirely within a 24-hour hackathon window, from hardware bring-up to a Shark-Tank-style investor pitch.
+
+- Built GPS + fall-detection + GSM emergency-alert hardware pipeline on ESP32C3
+- Shipped a parent-only RBAC web dashboard alongside the hardware
+- Produced a Blender 3D product animation for the investor pitch
+- Won **Overall 2nd Prize** and **Domain-Wise 1st Prize**
+
+`ESP32C3` `GPS` `MPU6050` `GSM` `React` `Supabase` `Blender`
+
+<br/>
+
+### **ML Engineer & Backend Developer — Team SatBridge**
+**ISRO Bharatiya Antariksh Hackathon 2026**
+`2026 — Present`
+
+Leading ML and backend architecture for a cross-modal satellite image retrieval system, from dataset engineering through API deployment.
+
+- Architected a DualEncoder contrastive-learning pipeline for SAR-optical cross-modal retrieval
+- Diagnosed and resolved data-pipeline bugs affecting model training integrity
+- Built a FastAPI + Uvicorn backend serving FAISS-based similarity search
+- Prioritized honest, unembellished metrics over inflated demo numbers
+
+`Deep Learning` `Computer Vision` `FastAPI` `FAISS` `PyTorch`
+
+<br/>
+
+### **Event Coordinator**
+**BIHER, Chennai**
+`2024 — Present`
+
+- Planned and ran technical workshops and inter-batch events across the CSE cohort
+- Handled team logistics, communication, and participation drives for department events
+- Managed attendance records and documentation for the CSE batch (U24CS)
+
+`Team Leadership` `Event Management` `Communication`
+
+<br/>
+
+### **Google Student Ambassador**
+**Google Developer Program — GID 3150**
+`2025 — Present`
+
+- Organized campus technical events and community engagement programs
+- Built automated certificate-generation pipelines for event participants
+- Represented Google's developer ecosystem within the BIHER campus community
+
+`Community Building` `Event Ops` `Python Automation`
+
+<br/>
+
+### **Campus Ambassador**
+**HCLTech**
+`2025 — Present`
+
+- Bridged HCLTech's campus initiatives with student technical communities
+- Supported outreach and technical engagement programs at BIHER
+
+`Campus Relations` `Technical Outreach`
+
+<br/>
+
+---
+
+## 🏆 Achievements
 
 <div align="center">
 
-| 🏆 | Achievement | Details |
-|---|---|---|
-| 🥇 | **Genesis Hackathon 2026 — Domain-Wise First Prize** | Built SafeGuard AI (IoT child safety wearable) in 24 hours at SRMEEC Chennai |
-| 🥈 | **Genesis Hackathon 2026 — Overall Second Prize** | Shark Tank-style investor pitch with hardware, web app & 3D animation |
-| 🎓 | **Academic Excellence — CGPA 9.0 / 10.0** | Consistent top performer across all semesters at BIHER CSE |
-| 🚀 | **12+ End-to-End Projects Shipped** | Spanning national identity platforms, IoT wearables, ML pipelines & full-stack web apps |
-| ⚡ | **25% API Performance Optimization** | Achieved on the distributed cloud-edge healthcare framework |
-| 🎯 | **~90% ML Model Accuracy** | CNN-based object detection pipeline for Tender Coconut Grader |
-| 🏥 | **Real Client Delivery** | Shipped Raghavendra Medicals — a live pharmacy management & ordering system |
+| Recognition | Details |
+|---|---|
+| 🥈 **Overall 2nd Prize** | Genesis Hackathon 2026 — SafePathAI (built in 24 hours) |
+| 🥇 **Domain-Wise 1st Prize** | Genesis Hackathon 2026 — SafePathAI |
+| 🛰️ **ISRO BAH 2026 Entry** | Team SatBridge — cross-modal satellite retrieval |
+| 🎓 **Google Student Ambassador** | GID 3150 |
+| 🏢 **HCLTech Campus Ambassador** | Active program member |
+| 📊 **CGPA 9.0 / 10.0** | B.Tech CSE, BIHER Chennai (Batch 2024–2028) |
+| 🎯 **~90% ML Model Accuracy** | CNN-based grading pipeline — AgriGrade |
+| ⚡ **~25% API Latency Reduction** | Cloud-edge healthcare framework — HealAI |
+| 🏥 **Real Client Delivery** | RM Online App — live for Raghavendra Medicals |
+| 🚀 **19+ End-to-End Projects Shipped** | AI/ML, IoT, full-stack, and product engineering work |
 
 </div>
+
+<br/>
 
 ---
 
@@ -210,37 +375,145 @@ const madhan = {
 
 </div>
 
+<br/>
+
 ---
 
-## 📚 Currently Exploring
+## 📜 Certifications
 
+**AWS**
+
+<img src="https://img.shields.io/badge/AWS_Cloud_Practitioner-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
+
+**NPTEL**
+
+<img src="https://img.shields.io/badge/Introduction_to_IoT-8B5CF6?style=flat-square"/>
+
+**Cisco**
+
+<img src="https://img.shields.io/badge/Networking_Basics-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/>
+
+<br/>
+
+---
+
+## 💻 Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/madhankumartbharathuniv"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=1a1a2e"/></a>
+<a href="https://hack2skill.com/"><img src="https://img.shields.io/badge/Hack2Skill-madhankumartbharathuniv__4401-FF6B00?style=for-the-badge&labelColor=1a1a2e"/></a>
+<a href="https://www.geeksforgeeks.org/user/madhan310301"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=1a1a2e"/></a>
+<a href="https://www.hackerrank.com/madhan310301"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=1a1a2e"/></a>
+<a href="https://www.codechef.com/users/madhan310301"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=1a1a2e"/></a>
+
+</div>
+
+<br/>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Madhan310301&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9&count_private=true" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Madhan310301&theme=tokyonight&hide_border=true&background=0d1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="49%"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhan310301&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" width="49%"/>
+
+</div>
+
+<br/>
+
+---
+
+## 🏅 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Madhan310301&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&column=7"/>
+
+</div>
+
+<br/>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Madhan310301&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=A78BFA&line=8B5CF6&point=ffffff"/>
+
+</div>
+
+<br/>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Madhan310301/Madhan310301/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+<br/>
+
+---
+
+## 🎯 Current Focus
+
+```yaml
+Learning:
+  - Advanced Contrastive Representation Learning
+  - System Design at Scale (distributed systems, CAP theorem)
+  - Data Structures & Algorithms (LeetCode intensive)
+  - Agent Memory Infrastructure & RAG architectures
+
+Building:
+  - SatBridge — Cross-Modal Satellite Retrieval (ISRO BAH 2026)
+  - Personal Portfolio v2 — Next.js + React Three Fiber
+
+Exploring:
+  - TinyML / Edge AI (ESP32-class on-device inference)
+  - LLM Evaluation Frameworks & hallucination detection
+  - RBAC & Auth Architecture (Supabase RLS, JWT flows)
+
+Open To:
+  - AI/ML Engineering Internships
+  - Backend Engineering Roles
+  - Research Collaborations
+  - Open Source Contributions
 ```
-🧱 Agent Memory Infrastructure  →  Persistent context, vector stores, retrieval-augmented generation
-⚡ TinyML / Edge AI             →  On-device inference, ESP32 deployment, model quantization
-🔬 LLM Evaluation Frameworks   →  Benchmarking, hallucination detection, output scoring
-🏗️  System Design at Scale     →  Distributed systems, microservices, load balancing, CAP theorem
-🔐 RBAC & Auth Architecture    →  Supabase RLS, JWT flows, multi-role access control patterns
-```
+
+<br/>
+
+---
+
+## 📬 Connect With Me
+
+<div align="center">
+
+<a href="mailto:madhankumartbharathuniv@gmail.com"><img src="https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/></a>
+<a href="https://linkedin.com/in/madhankumart"><img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e"/></a>
+<a href="https://github.com/Madhan310301"><img src="https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e"/></a>
+<a href="https://madhan.vercel.app"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e"/></a>
+
+</div>
+
+<br/>
 
 ---
 
 <div align="center">
 
-📫 **Let's connect!**
+*"Build systems that are honest about what they can do — not systems that just look good in a demo."*
 
-[![Email](https://img.shields.io/badge/Email-madhankumartbharathuniv@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:maddymadhan3103@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-madhankumart-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/madhankumart)
-[![GitHub](https://img.shields.io/badge/GitHub-Madhan310301-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Madhan310301)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer"/>
 
 </div>
-
-<svg width="100%" height="120" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 120">
-  <defs>
-    <linearGradient id="footerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#0d1117"/>
-      <stop offset="50%" style="stop-color:#1a1b4b"/>
-      <stop offset="100%" style="stop-color:#0d1117"/>
-    </linearGradient>
-  </defs>
-  <path d="M0,60 Q225,10 450,50 Q675,90 900,30 L900,120 L0,120 Z" fill="url(#footerGrad)"/>
-</svg>
