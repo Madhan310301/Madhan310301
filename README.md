@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Madhan%20Kumar%20T&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20IoT%20Builder&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=290&section=header&text=Madhan%20Kumar%20T&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20%2F%20ML%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20IoT%20Builder&descAlignY=52&descSize=19" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=820&lines=Building+Intelligent+Systems+at+Scale;AI%2FML+Engineer+%7C+Full-Stack+Developer+%7C+IoT+Builder;Computer+Vision+%7C+NLP+%7C+Cross-Modal+Retrieval;Third-Year+CSE+%40+BIHER%2C+Chennai;19%2B+Projects+Shipped+End-to-End" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=Engineering+Intelligent+Systems+at+Scale;AI%2FML+Engineer+%7C+Full-Stack+Developer+%7C+IoT+Builder;Computer+Vision+%7C+NLP+%7C+Cross-Modal+Retrieval;Third-Year+CSE+%40+BIHER%2C+Chennai;Open+to+Internship+%7C+Freelance+%7C+Startup+Roles" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -18,7 +18,7 @@
 
 <br/><br/>
 
-<a href="https://madhan.vercel.app"><img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e"/></a>
+<a href="https://madhan-developer.vercel.app"><img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e"/></a>
 <a href="https://linkedin.com/in/madhankumart"><img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e"/></a>
 <a href="mailto:madhankumartbharathuniv@gmail.com"><img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/></a>
 <a href="https://github.com/Madhan310301"><img src="https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e"/></a>
@@ -37,9 +37,9 @@
 
 ## 🧠 About Me
 
-<img align="right" alt="coding" width="280" src="https://raw.githubusercontent.com/aditya1601/aditya1601/output/snake.svg">
+<img align="right" alt="coding" width="280" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-I'm a **third-year Computer Science Engineering** student at **BIHER, Chennai**, engineering intelligent systems at the intersection of **Machine Learning, Computer Vision, IoT, and Full-Stack Product Development**. My work ranges from **cross-modal satellite image retrieval** to **IoT-based safety hardware shipped in 24 hours** — I build systems, not just scripts.
+I'm a **third-year Computer Science Engineering** student at **BIHER, Chennai**, engineering intelligent systems at the intersection of **Machine Learning, Computer Vision, IoT, and Full-Stack Product Development**. I approach every build with a product engineer's mindset — from **cross-modal satellite retrieval architectures** to **IoT safety hardware shipped in 24 hours** — prioritizing systems that are reliable, measurable, and shippable, not just impressive in a demo.
 
 - 🔭 Currently engineering **SatBridge** — a cross-modal SAR/optical satellite retrieval system for **ISRO's Bharatiya Antariksh Hackathon 2026**
 - 🥇 Built **SafePathAI**, an IoT child-safety wearable, end-to-end in **24 hours** — won **Overall 2nd Prize** and **Domain 1st Prize** at Genesis Hackathon 2026
@@ -48,7 +48,7 @@ I'm a **third-year Computer Science Engineering** student at **BIHER, Chennai**,
 - 🏆 Google Student Ambassador (GID 3150) · HCLTech Campus Ambassador · Event Coordinator, BIHER CSE
 - ⚙️ Engineering philosophy: **honest metrics over inflated demos** — I ship what's real, not what looks good in a slide
 
-**Open To:** AI/ML Engineering Internships · Backend Engineering Roles · Research Collaborations · Open Source Contributions
+**Open To:** Internship Opportunities · Freelancing · Paid Projects · Startup Job Opportunities
 
 <br clear="right"/>
 
@@ -67,19 +67,19 @@ I'm a **third-year Computer Science Engineering** student at **BIHER, Chennai**,
 **Backend & Databases**
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi,mongodb,mysql,postgres,redis,firebase&theme=dark"/>
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white&labelColor=1a1a2e"/>
 
 **AI / ML & Deep Learning**
 
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&theme=dark"/>
-<img src="https://img.shields.io/badge/LLM%20APIs%20%2F%20LangChain-10a37f?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/LLM%20APIs%20%2F%20LangChain-10a37f?style=for-the-badge&logo=openai&logoColor=white&labelColor=1a1a2e"/>
 
 **IoT & Embedded**
 
 <img src="https://skillicons.dev/icons?i=arduino&theme=dark"/>
-<img src="https://img.shields.io/badge/ESP32C3-E7352C?style=flat-square&logo=espressif&logoColor=white"/>
-<img src="https://img.shields.io/badge/NEO--6M%20GPS-0078D7?style=flat-square&logo=googlemaps&logoColor=white"/>
-<img src="https://img.shields.io/badge/SIM800L%20GSM-1A73E8?style=flat-square&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/ESP32C3-E7352C?style=for-the-badge&logo=espressif&logoColor=white&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/NEO--6M%20GPS-0078D7?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/SIM800L%20GSM-1A73E8?style=for-the-badge&logo=google&logoColor=white&labelColor=1a1a2e"/>
 
 **Cloud, DevOps & Tooling**
 
@@ -383,15 +383,15 @@ Leading ML and backend architecture for a cross-modal satellite image retrieval 
 
 **AWS**
 
-<img src="https://img.shields.io/badge/AWS_Cloud_Practitioner-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS_Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=1a1a2e"/>
 
 **NPTEL**
 
-<img src="https://img.shields.io/badge/Introduction_to_IoT-8B5CF6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Introduction_to_IoT-8B5CF6?style=for-the-badge&labelColor=1a1a2e"/>
 
 **Cisco**
 
-<img src="https://img.shields.io/badge/Networking_Basics-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/Networking_Basics-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white&labelColor=1a1a2e"/>
 
 <br/>
 
@@ -402,44 +402,24 @@ Leading ML and backend architecture for a cross-modal satellite image retrieval 
 <div align="center">
 
 <a href="https://leetcode.com/madhankumartbharathuniv"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=1a1a2e"/></a>
+<a href="https://www.geeksforgeeks.org/profile/madhankumart"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=1a1a2e"/></a>
+<a href="https://www.hackerrank.com/profile/madhankumartbha1"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=1a1a2e"/></a>
+<a href="https://www.codechef.com/users/madhankumart"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=1a1a2e"/></a>
 <a href="https://hack2skill.com/"><img src="https://img.shields.io/badge/Hack2Skill-madhankumartbharathuniv__4401-FF6B00?style=for-the-badge&labelColor=1a1a2e"/></a>
-<a href="https://www.geeksforgeeks.org/user/madhan310301"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=1a1a2e"/></a>
-<a href="https://www.hackerrank.com/madhan310301"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=1a1a2e"/></a>
-<a href="https://www.codechef.com/users/madhan310301"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=1a1a2e"/></a>
 
 </div>
 
 <br/>
 
 ---
-
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Madhan310301&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9&count_private=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Madhan310301&theme=tokyonight&hide_border=true&background=0d1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="49%"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhan310301&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" width="49%"/>
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Madhan310301&theme=tokyonight&hide_border=true&background=0d1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="49%" alt="GitHub Streak"/>
 </div>
 
 <br/>
-
----
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Madhan310301&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&column=7"/>
-
-</div>
-
-<br/>
-
 ---
 
 ## 📈 Contribution Activity
@@ -485,10 +465,10 @@ Exploring:
   - RBAC & Auth Architecture (Supabase RLS, JWT flows)
 
 Open To:
-  - AI/ML Engineering Internships
-  - Backend Engineering Roles
-  - Research Collaborations
-  - Open Source Contributions
+  - Internship Opportunities
+  - Freelancing
+  - Paid Projects
+  - Startup Job Opportunities
 ```
 
 <br/>
