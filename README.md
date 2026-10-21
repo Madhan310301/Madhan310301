@@ -183,19 +183,20 @@ Leading ML and backend architecture for cross-modal satellite image retrieval, f
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Madhan310301&theme=dark&hide_border=true&background=0E0F11&ring=9AA1AA&fire=C4C9D0&currStreakLabel=C4C9D0&currStreakNum=F5F6F7&sideNums=F5F6F7&sideLabels=9AA1AA&dates=6B7280&stroke=2B2F34" width="720" alt="GitHub streak"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Madhan310301&show_icons=true&hide_border=true&bg_color=0E0F11&title_color=F5F6F7&text_color=C4C9D0&icon_color=9AA1AA&include_all_commits=true&count_private=true" width="49%" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhan310301&layout=compact&hide_border=true&bg_color=0E0F11&title_color=F5F6F7&text_color=C4C9D0&langs_count=8" width="49%" alt="Top languages"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Madhan310301&bg_color=0E0F11&color=C4C9D0&line=9AA1AA&point=FFFFFF&area=true&area_color=6B7280&hide_border=true&hide_title=true" width="100%" alt="Contribution activity graph"/>
+<img src="https://streak-stats.demolab.com/?user=Madhan310301&theme=dark&hide_border=true&background=0E0F11&ring=9AA1AA&fire=C4C9D0&currStreakLabel=C4C9D0&currStreakNum=F5F6F7&sideNums=F5F6F7&sideLabels=9AA1AA&dates=6B7280&stroke=2B2F34" width="720" alt="GitHub streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Madhan310301&bg_color=0E0F11&color=C4C9D0&line=9AA1AA&point=FFFFFF&area=true&area_color=6B7280&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Contribution activity graph"/>
 
 <br/>
 
 <img src="https://ghchart.rshah.org/9AA1AA/Madhan310301" width="100%" alt="GitHub contribution heatmap"/>
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/Madhan310301/Madhan310301/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake"/>
 
 </div>
 
