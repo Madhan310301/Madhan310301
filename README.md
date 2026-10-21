@@ -192,17 +192,17 @@ Leading ML and backend architecture for cross-modal satellite image retrieval, f
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/Madhan310301/Madhan310301/profile-summary/profile-summary-card-output/github_dark/0-profile-details.svg" width="100%" alt="Profile Details"/>
+<img src="https://raw.githubusercontent.com/Madhan310301/Madhan310301/main/profile-summary-card-output/github_dark/0-profile-details.svg" width="100%" alt="Profile Details"/>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Madhan310301/Madhan310301/profile-summary/profile-summary-card-output/github_dark/1-repos-per-language.svg" width="49%" alt="Repos per Language"/>
-<img src="https://raw.githubusercontent.com/Madhan310301/Madhan310301/profile-summary/profile-summary-card-output/github_dark/2-most-commit-language.svg" width="49%" alt="Most Commit Language"/>
+<img src="https://raw.githubusercontent.com/Madhan310301/Madhan310301/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" width="49%" alt="Repos per Language"/>
+<img src="https://raw.githubusercontent.com/Madhan310301/Madhan310301/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" width="49%" alt="Most Commit Language"/>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Madhan310301/Madhan310301/profile-summary/profile-summary-card-output/github_dark/3-stats.svg" width="49%" alt="Stats"/>
-<img src="https://raw.githubusercontent.com/Madhan310301/Madhan310301/profile-summary/profile-summary-card-output/github_dark/4-productive-time.svg" width="49%" alt="Productive Time"/>
+<img src="https://raw.githubusercontent.com/Madhan310301/Madhan310301/main/profile-summary-card-output/github_dark/3-stats.svg" width="49%" alt="Stats"/>
+<img src="https://raw.githubusercontent.com/Madhan310301/Madhan310301/main/profile-summary-card-output/github_dark/4-productive-time.svg" width="49%" alt="Productive Time"/>
 
 <br/><br/>
 
