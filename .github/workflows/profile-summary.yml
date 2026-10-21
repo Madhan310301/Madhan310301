@@ -7,6 +7,10 @@ on:
   push:
     branches:
       - main
+    paths-ignore:
+      - 'profile-summary-card-output/**'
+      - 'README.md'
+      - 'assets/**'
 
 jobs:
   build:
@@ -19,7 +23,8 @@ jobs:
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         with:
           USERNAME: Madhan310301
-          BRANCH_NAME: profile-summary
+          BRANCH_NAME: main
           UTC_OFFSET: 5.5
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+

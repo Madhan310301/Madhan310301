@@ -215,11 +215,12 @@ Leading ML and backend architecture for cross-modal satellite image retrieval, f
 ## Current Focus
 
 ```yaml
-Learning:
-  - Advanced Contrastive Representation Learning
-  - System Design at Scale (distributed systems, CAP theorem)
-  - Data Structures & Algorithms (LeetCode intensive)
-  - Agent Memory Infrastructure & RAG architectures
+Learning & Mastering:
+  - Artificial Intelligence (Advanced Level: Agentic Systems, RAG, Reasoning Models)
+  - Deep Learning (DualEncoder Architectures, Contrastive Learning, Multi-Sensor CV)
+  - Business Management & Strategy (Product Engineering, Startup Scaling, Unit Economics)
+  - Advanced Money & Time Management (High-Leverage Prioritization, Capital Efficiency, Discipline)
+  - System Design & Distributed Computing at Scale
 
 Building:
   - SatBridge: Cross-Modal Satellite Retrieval (ISRO BAH 2026)
@@ -227,14 +228,14 @@ Building:
 
 Exploring:
   - TinyML / Edge AI (ESP32-class on-device inference)
-  - LLM Evaluation Frameworks & hallucination detection
+  - LLM Evaluation Frameworks & Hallucination Mitigation
   - RBAC & Auth Architecture (Supabase RLS, JWT flows)
 
 Open To:
   - Internship Opportunities
-  - Freelancing
+  - Freelancing & Technical Consulting
   - Paid Projects
-  - Startup Job Opportunities
+  - High-Growth Startup Roles
 ```
 
 <img src="assets/divider.svg" width="100%" alt=""/>
