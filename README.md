@@ -192,9 +192,19 @@ Leading ML and backend architecture for cross-modal satellite image retrieval, f
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Madhan310301&bg_color=0E0F11&color=C4C9D0&line=9AA1AA&point=FFFFFF&area=true&area_color=6B7280&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Contribution activity graph"/>
+<img src="https://raw.githubusercontent.com/Madhan310301/Madhan310301/profile-summary/profile-summary-card-output/github_dark/0-profile-details.svg" width="100%" alt="Profile Details"/>
 
 <br/>
+
+<img src="https://raw.githubusercontent.com/Madhan310301/Madhan310301/profile-summary/profile-summary-card-output/github_dark/1-repos-per-language.svg" width="49%" alt="Repos per Language"/>
+<img src="https://raw.githubusercontent.com/Madhan310301/Madhan310301/profile-summary/profile-summary-card-output/github_dark/2-most-commit-language.svg" width="49%" alt="Most Commit Language"/>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/Madhan310301/Madhan310301/profile-summary/profile-summary-card-output/github_dark/3-stats.svg" width="49%" alt="Stats"/>
+<img src="https://raw.githubusercontent.com/Madhan310301/Madhan310301/profile-summary/profile-summary-card-output/github_dark/4-productive-time.svg" width="49%" alt="Productive Time"/>
+
+<br/><br/>
 
 <img src="https://ghchart.rshah.org/9AA1AA/Madhan310301" width="100%" alt="GitHub contribution heatmap"/>
 
