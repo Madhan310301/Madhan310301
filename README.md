@@ -23,7 +23,7 @@ I'm a third-year Computer Science Engineering student at BIHER, Chennai, buildin
 
 | | |
 |---|---|
-| **Now building** | **SatBridge**, a cross-modal SAR/optical satellite retrieval system for ISRO's Bharatiya Antariksh Hackathon 2026 |
+| **Now building** | A high-impact software & AI engineering career, architecting solutions for complex real-world AI problems |
 | **Shipped fast** | **SafePathAI**, an IoT child-safety wearable built end to end in 24 hours: Overall 2nd Prize and Domain 1st Prize at Genesis Hackathon 2026 |
 | **Full stack** | React, Next.js, Node.js, FastAPI, Supabase |
 | **Deep focus** | Deep learning and retrieval systems: DualEncoder architectures, FAISS, contrastive / InfoNCE loss |
@@ -101,29 +101,29 @@ I'm a third-year Computer Science Engineering student at BIHER, Chennai, buildin
 
 ## Experience & Leadership
 
-**Lead Builder & Presenter, Genesis Hackathon 2026** · SRMEEC, Chennai · 2026
+**Lead Builder & Presenter, Genesis Hackathon 2026** | SRMEEC, Chennai | 2026
 Designed, built and pitched SafePathAI inside a 24-hour window, from hardware bring-up to a Shark-Tank-style investor pitch.
 - Built the GPS + fall-detection + GSM emergency-alert pipeline on ESP32C3
 - Shipped a parent-only RBAC web dashboard alongside the hardware
 - Produced a Blender 3D product animation for the pitch
 - Won **Overall 2nd Prize** and **Domain-Wise 1st Prize**
 
-**ML Engineer & Backend Developer, Team SatBridge** · ISRO Bharatiya Antariksh Hackathon 2026 · 2026 to present
-Leading ML and backend architecture for cross-modal satellite image retrieval, from dataset engineering to API deployment.
+**ML Engineer & Backend Developer, Team SatBridge** | ISRO Bharatiya Antariksh Hackathon | 2026
+Led ML and backend architecture for cross-modal satellite image retrieval, from dataset engineering to API deployment.
 - Architected a DualEncoder contrastive-learning pipeline for SAR-optical retrieval
 - Diagnosed and fixed data-pipeline bugs that affected training integrity
 - Built a FastAPI + Uvicorn backend serving FAISS similarity search
 - Reported honest, unembellished metrics over inflated demo numbers
 
-**Event Coordinator** · BIHER, Chennai · 2024 to present
+**Event Coordinator** | BIHER, Chennai | 2024 to present
 - Planned and ran technical workshops and inter-batch events across the CSE cohort
 - Handled logistics, communication and participation drives; maintained attendance and documentation for the CSE batch (U24CS)
 
-**Google Student Ambassador** · Google Developer Program, GID 3150 · 2025 to present
+**Google Student Ambassador** | Google Developer Program, GID 3150 | 2025 to present
 - Organized campus technical events and community programs
 - Built automated certificate-generation pipelines for event participants
 
-**Campus Ambassador** · HCLTech · 2025 to present
+**Campus Ambassador** | HCLTech | 2025 to present
 - Bridged HCLTech's campus initiatives with student technical communities and supported outreach programs at BIHER
 
 <img src="assets/divider.svg" width="100%" alt=""/>
@@ -223,7 +223,8 @@ Learning & Mastering:
   - System Design & Distributed Computing at Scale
 
 Building:
-  - SatBridge: Cross-Modal Satellite Retrieval (ISRO BAH 2026)
+  - Career Foundation (Technical depth, engineering leadership & product execution)
+  - Scalable Architectures & Solutions for Complex AI Problems
   - Personal Portfolio v2: Next.js + React Three Fiber
 
 Exploring:
