@@ -241,4 +241,3 @@ Open To:
 <img src="assets/footer.svg" width="100%" alt=""/>
 
 </div>
-
