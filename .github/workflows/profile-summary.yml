@@ -27,4 +27,14 @@ jobs:
           UTC_OFFSET: 5.5
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
+      - name: Prevent email text overlap on profile details cards
+        run: |
+          git pull origin main
+          find profile-summary-card-output -name "0-profile-details.svg" -exec sed -i 's/font-size: 14px;">madhankumartbharathuniv@gmail.com<\/text>/font-size: 11px;" textLength="190" lengthAdjust="spacingAndGlyphs">madhankumartbharathuniv@gmail.com<\/text>/g' {} +
+          if [ -n "$(git status --porcelain)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add profile-summary-card-output/
+            git commit -m "Fix email text overlap in profile details cards"
+            git push origin main
+          fi

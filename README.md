@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Madhan310301&style=for-the-badge&color=2B2F34&labelColor=0E0F11&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://hits.sh/github.com/Madhan310301.svg?style=for-the-badge&color=2B2F34&labelColor=0E0F11&label=PROFILE+VIEWS" alt="Profile views"/>
 <img src="https://img.shields.io/github/followers/Madhan310301?style=for-the-badge&color=2B2F34&labelColor=0E0F11&label=FOLLOWERS" alt="Followers"/>
 
 </div>
@@ -183,7 +183,7 @@ Led ML and backend architecture for cross-modal satellite image retrieval, from 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Madhan310301&show_icons=true&hide_border=true&bg_color=0E0F11&title_color=F5F6F7&text_color=C4C9D0&icon_color=9AA1AA&include_all_commits=true&count_private=true" width="49%" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Madhan310301&show_icons=true&hide_border=true&bg_color=0E0F11&title_color=F5F6F7&text_color=C4C9D0&icon_color=9AA1AA" width="49%" alt="GitHub stats"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhan310301&layout=compact&hide_border=true&bg_color=0E0F11&title_color=F5F6F7&text_color=C4C9D0&langs_count=8" width="49%" alt="Top languages"/>
 
 <br/><br/>
